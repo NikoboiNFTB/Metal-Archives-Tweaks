@@ -22,7 +22,7 @@ Placeholder description. This script hides some elements on the homepage (like t
 
 2. **Add the Script:**
    - Click the installation link for the script you want to install (listed above).
-   - Tampermonkey will prompt you to add the script. Confirm the installation.
+   - The Monkey will prompt you to add the script. Confirm the installation.
 
 3. **Enjoy the Tweaks:**
    - Once the script is installed (and enabled), it will automatically execute on the specified Metal Archives pages.
