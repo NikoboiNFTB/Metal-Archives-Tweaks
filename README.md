@@ -27,12 +27,14 @@ Placeholder description. This script hides some elements on the homepage (like t
 3. **Enjoy the Tweaks:**
    - Once the script is installed (and enabled), it will automatically execute on the specified Metal Archives pages.
 
-## License
-
-This repository is licensed under the **GPLv3** license.
-
-For more information, check [LICENSE](LICENSE).
-
 ## Contributing
 
-Feel free to open issues or pull requests if you have suggestions or improvements for these userscripts. Any contributions are welcome!
+Feel free to fork this repository and submit issues or pull requests if you have any suggestions or improvements. If you encounter any bugs or have feature requests, please open an issue.
+
+## Credits
+
+Created by **[Nikoboi](https://github.com/NikoboiNFTB/)**
+
+## License
+
+This project is licenced under the GNU General Public License V3. See [LICENSE](LICENSE) for details.
