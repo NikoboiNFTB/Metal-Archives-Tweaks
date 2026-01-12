@@ -16,9 +16,9 @@ Placeholder description. This script hides some elements on the homepage (like t
 
 1. **Install Violentmonkey or Tampermonkey:**
    - For Firefox:
-     - Violentmonkey: Available on [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/)  
+     - [Violentmonkey, from Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/)  
    - For Chromium:
-     - Tampermonkey: Available on [Chrome Web Store](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en).
+     - [Tampermonkey, from Chrome Web Store](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en).
 
 2. **Add the Script:**
    - Click the installation link for the script you want to install (listed above).
