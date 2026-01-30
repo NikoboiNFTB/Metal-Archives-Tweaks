@@ -1,0 +1,28 @@
+{
+    "manifest_version": 2,
+    "name": "Search on Metal Archives",
+    "version": "1.0",
+    "description": "Adds a 'Search on Metal Archives' option to the context menu for highlighted text.",
+    "permissions": [
+        "contextMenus",
+        "tabs"
+    ],
+    "background": {
+        "scripts": [
+            "background.js"
+        ]
+    },
+    "icons": {
+        "128": "icons/metallum128.png"
+    },
+    "browser_specific_settings": {
+        "gecko": {
+            "id": "metallum-search@nikoboi.dev",
+            "data_collection_permissions": {
+                "required": [
+                    "none"
+                ]
+            }
+        }
+    }
+}
