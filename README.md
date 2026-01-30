@@ -2,9 +2,11 @@
 
 This repository contains a collection of useful userscripts to enhance the experience on [Metal Archives](https://www.metal-archives.com/). These tweaks allow you to perform various actions such as expanding all lyrics with a single click or hiding specific elements on the site for a cleaner experience.
 
-## Firefox Add-ons
+## Browser Extensions
 
-### Search on Metal Archives
+### Search on Metal Archives ([Firefox Add-ons](https://addons.mozilla.org/firefox/addon/search-on-metallum/))
+
+>> May not be available yet.
 
 Allows you to right click any text in your browser and select "Search on Metal Archives" and choose Band, Artist, Albums or Song.
 
