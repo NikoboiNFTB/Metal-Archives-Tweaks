@@ -14,7 +14,7 @@ Firefox Add-ons link:
 
 ## Userscripts
 
-### Expand All Lyrics ([install](https://github.com/NikoboiNFTB/Metal-Archives-Tweaks/raw/refs/heads/main/lyrics-expand/expand-all-lyrics.user.js))
+### Expand All Lyrics ([install](https://github.com/NikoboiNFTB/Metal-Archives-Tweaks/raw/refs/heads/main/expand-all-lyrics.user.js))
 
 This userscript enables you to expand all track lyrics on a Metal Archives album page with a simple Shift + Click on any "Show lyrics" button. It also allows you to close all lyrics when clicked again.
 
